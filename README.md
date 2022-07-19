@@ -1,6 +1,6 @@
 # Endangered_Language_Risk_Analysis
 
-Explored different machine learning models to determine the algorithm that best predicts endangered language risk. 
+Personal Projec: Explored different machine learning models to determine the algorithm that best predicts endangered language risk. 
 
 To approach this unbalanced classfication problem, I trained and evaluated models with unbalanced classes.
 
